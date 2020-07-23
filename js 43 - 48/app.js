@@ -70,3 +70,4 @@ function incr() {
 function decr() {
     clicks -= 1;
     document.getElementById("data").innerHTML = clicks;
+}
